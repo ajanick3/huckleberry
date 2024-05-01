@@ -22,7 +22,7 @@ header {
 }
 
 .intro-chunk {
-
+  /* margin: 24px; */
   padding-top: 96px;
   padding-bottom: 64px;
   max-width: 415px;
